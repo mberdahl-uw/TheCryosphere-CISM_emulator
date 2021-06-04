@@ -1,7 +1,7 @@
 # EmulatorPaper
 Data and Code for Emulator Paper
 
-There are three R scripts, and some CSV files needed to run these.  Together these scripts validate & build the emulator, and then finally run example priors through the emulator. 
+There are three R scripts, and some CSV files needed to run these.  Together these scripts validate & build the emulator, and then finally run example priors through the emulator. The RData files are the actual emulators (year 100 and 200) that are built and used by the final (third) script.
 
 There are three R scripts that should be run in the following order:
 First, cism_slr_emulator_valid.R:
